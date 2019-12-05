@@ -25,5 +25,6 @@ coordinate values should be integers between −15 and 15. Default: k = 20.
 In order to execute only the BFS alogirth the driver.cpp files should be altered by
 simply disconnecting the pipe to rgen.
 
-To compile the code: Compile bfs.cpp and rgen.cpp initially, then run the makefile
+## To compile the code: 
+Compile bfs.cpp and rgen.cpp initially, then run the makefile
 by executing "make" in the command line, which will run the driver program. 
